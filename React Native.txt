@@ -1,0 +1,5 @@
+3. - Java. Pada tahun 2017, Java ditetapkan sebagai bahasa terpopuler yang paling sering dipakai. Namun, untuk sekarang telah digeser oleh JavaScript dan Python dalam hal kepopuleran. Selain itu, penggunaan aplikasi Android banyak yang menggunakan bahasa pemrograman android yang membuat java sedikit bergeser.
+
+- Kotlin. memiliki struktur penulisan kode yang hampir sama dengan java. Tetapi, dapat dikatakan bahwa Kotlin lebih unggul dari java dalam penulisan kode program yang lebih rapi dan mudah dipahami. Kotlin telah mendapat dukungan dari Google sebagai bahasa pemrograman baru terpopuler.
+
+Perbedaan React Native : React Native merupakan sebuah framework atau kerangka kerja, sedangkan React JS merupakan sebuah pustaka JavaScript yang biasa digunakan pada situs web. React Native sangat membantu para developer dalam membuat aplikasi menjadi lebih nyata dan menarik.
